@@ -1,4 +1,4 @@
-use display_info::DisplayInfo;
+pub use display_info::DisplayInfo;
 
 mod image;
 pub use image::Image;
